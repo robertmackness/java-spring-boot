@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/readingList.iml" filepath="$PROJECT_DIR$/.idea/modules/readingList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/readingList_main.iml" filepath="$PROJECT_DIR$/.idea/modules/readingList_main.iml" group="readingList" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/readingList_test.iml" filepath="$PROJECT_DIR$/.idea/modules/readingList_test.iml" group="readingList" />
+    </modules>
+  </component>
+</project>
